@@ -1,0 +1,28 @@
+[question_type]
+fact
+[/question_type]
+
+[question]
+How tall is the Eiffel Tower?
+[/question]
+[LISA]
+The Eiffel Tower is **300 meters (984 feet)** tall to the top of its original structure. However, with the addition of a broadcast antenna at the top in 1957 and subsequent upgrades, its current total height is approximately **330 meters (1,083 feet)**.
+
+Here’s a quick breakdown:
+
+- **Original height (1889):** 300 meters (984 ft)
+- **Current height with antenna:** ~330 meters (~1,083 ft)
+
+It was the tallest man-made structure in the world until the completion of the Chrysler Building in New York City in 1930. Today, it remains one of the most iconic landmarks in the world and a symbol of France.
+[/LISA]
+[Qwen3]
+The Eiffel Tower is approximately **330 meters (1,083 feet)** tall. It stands in central Paris, France, and is one of the most recognizable structures in the world. The tower was built mainly for the 1889 World's Fair (Exposition Universelle) and has since become a symbol of France.
+[/Qwen3]
+[Gemma3]
+The Eiffel Tower is approximately **330 meters (1,083 feet)** tall!
+It’s a fantastic height! 😊 Would you like to know anything else about it, like its construction, history, or how it’s maintained?
+[/Gemma3]
+[LISA_score]8[/LISA_score]
+[Qwen3_score]9[/Qwen3_score]
+[Gemma3_score]5[/Gemma3_score]
+
