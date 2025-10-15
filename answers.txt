@@ -1,134 +1,1459 @@
 [question_type]fact[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]How tall is the Eiffel Tower?[/question]
+[LISA]The Eiffel Tower is 300 meters (984 feet) tall, including its antenna.
+When it was completed in 1889, it stood at 300 meters, making it the tallest man-made structure in the world until the completion of the Chrysler Building in New York City in 1930.
+Over time, the height has increased slightly due to the addition of antennas:
+With antenna: Approximately 330 meters (1,083 feet)
+Without antenna (structural height): 300 meters (984 feet)
+ The current antenna, added in 2022 for digital broadcasting, brought the total height to about 330 meters. So, depending on whether you include the antenna or not, both 300 m and 330 m are commonly cited figures — with 330 m being the official height today.[/LISA]
+[Qwen3]The Eiffel Tower is approximately **330 meters (1,083 feet)** tall. It stands as the tallest structure in Paris and is a famous landmark in France.[/Qwen3]
+[Gemma3]Type your Question: How tall is the Eiffel Tower?
+The Eiffel Tower is approximately **330 meters (1,083 feet)** tall!
+
+It’s a popular question, and it’s a bit of a tricky number to pin down because it includes the antenna. 😊[/Gemma3]
+[LISA_score]10[/LISA_score]
+[Qwen3_score]9[/Qwen3_score]
+[Gemma3_score]8[/Gemma3_score]
 
 [question_type]fact[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]What is the capital city of Canada?[/question]
+[LISA]The capital city of Canada is Ottawa.
+Located in the province of Ontario, Ottawa sits on the border with Quebec and is home to Parliament Hill, the official residence of the Canadian Prime Minister (24 Sussex Drive), and many national museums and government institutions. It was chosen as the capital in 1857 by Queen Victoria due to its strategic location between English- and French-speaking regions.[/LISA]
+[Qwen3]The capital city of Canada is **Ottawa**.[/Qwen3]
+[Gemma3]The capital city of Canada is Ottawa!
+
+It’s a wonderful city! 😊[/Gemma3]
+[LISA_score]10[/LISA_score]
+[Qwen3_score]9[/Qwen3_score]
+[Gemma3_score]8[/Gemma3_score]
 
 [question_type]fact[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]In what year did the first human land on the Moon?[/question]
+[LISA]The first human landed on the Moon in 1969.
+On July 20, 1969, NASA astronauts Neil Armstrong and Buzz Aldrin became the first humans to walk on the lunar surface as part of NASA’s Apollo 11 mission. Neil Armstrong famously declared, “That’s one small step for [a] man, one giant leap for mankind,” as he descended from the Lunar Module Eagle and stepped onto the Moon. Michael Collins remained in lunar orbit aboard the command module.
+The mission was launched on July 16, 1969, and the lunar landing occurred four days later.[/LISA]
+[Qwen3]The first human land on the Moon occurred on **July 20, 1969**, when **Neil Armstrong** and **Buzz Aldrin** of the United States became the first people to walk on the Moon as part of the Apollo 11 mission. Armstrong's famous words were: "That's one small step for man, one giant leap for mankind."[/Qwen3]
+[Gemma3]
+The first human landed on the Moon in **1969**. Specifically, on July 20th, 1969, Neil Armstrong became the first human to walk on the lunar surface.
+[/Gemma3]
+[LISA_score]10[/LISA_score]
+[Qwen3_score]10[/Qwen3_score]
+[Gemma3_score]9[/Gemma3_score]
 
 [question_type]fact[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]Who painted the Mona Lisa?[/question]
+[LISA]The Mona Lisa was painted by Leonardo da Vinci, the renowned Italian Renaissance artist, scientist, and polymath. He began working on the portrait around 1503 in Florence, Italy, and continued refining it for several years—possibly until his death in 1519. The painting is famous for its enigmatic smile, masterful use of sfumato (a technique of blending colors and tones), and the subject’s captivating gaze. It is currently housed in the Louvre Museum in Paris and is one of the most iconic and recognized artworks in the world.[/LISA]
+[Qwen3]The Mona Lisa, one of the most famous paintings in the world, was painted by **Leonardo da Vinci**. He created it between 1503 and 1519, during the Renaissance period in Florence, Italy.
+
+Leonardo da Vinci was a master of many artistic and scientific disciplines, and the Mona Lisa is considered one of his most celebrated works. It is a portrait of Lisa Gherardini, a wealthy merchant woman in Florence, and is known for its enigmatic expression and intricate details.
+
+The painting is currently housed in the **Musée du Louvre** in Paris, France.[/Qwen3]
+[Gemma3]The Mona Lisa was painted by **Leonardo da Vinci**.
+
+It’s one of the most famous and enigmatic paintings in the world, and Da Vinci worked on it for many years! 😊
+
+Would you like to know more about the Mona Lisa – perhaps its history, techniques, or symbolism?
+[/Gemma3]
+[LISA_score]10[/LISA_score]
+[Qwen3_score]10[/Qwen3_score]
+[Gemma3_score]8[/Gemma3_score]
 
 [question_type]fact[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]What is the largest planet in our solar system?[/question]
+[LISA]The largest planet in our solar system is Jupiter.
+Jupiter is a gas giant with a diameter of about 139,820 kilometers (86,881 miles), making it more than 11 times wider than Earth. It has a mass over 2.5 times that of all the other planets in the solar system combined. Jupiter is known for its prominent Great Red Spot (a giant storm), numerous moons (over 95 confirmed), and a strong magnetic field. Its massive size is due to its composition of mostly hydrogen and helium, similar to the Sun.[/LISA]
+[Qwen3]The largest planet in our solar system is **Jupiter**. It is the fifth planet from the Sun and the largest in the solar system by both mass and volume. Jupiter has a diameter of about 139,822 kilometers (86,881 miles), making it more than 11 times the diameter of Earth. It is primarily composed of hydrogen and helium, and its massive size is due to its strong gravitational field and rapid rotation.[/Qwen3]
+[Gemma3]The largest planet in our solar system is **Jupiter**.
+
+It’s a massive gas giant! 😊
+
+Do you want to know more about Jupiter?
+[/Gemma3]
+[LISA_score]10[/LISA_score]
+[Qwen3_score]9[/Qwen3_score]
+[Gemma3_score]8[/Gemma3_score]
 
 [question_type]code[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]Write a Python script that implements the Sieve of Eratosthenes to find all prime numbers up to 100.[/question]
+[LISA]def sieve_of_eratosthenes(limit):
+    """
+    Implements the Sieve of Eratosthenes to find all prime numbers up to limit.
+
+    Args:
+        limit (int): The upper bound (inclusive) for finding prime numbers
+
+    Returns:
+        list: A list of all prime numbers up to limit
+    """
+    # Create a boolean array and initialize all entries as True
+    # A value in is_prime[i] will be False if i is not a prime, else True
+    is_prime = [True] * (limit + 1)
+
+    # 0 and 1 are not prime numbers
+    is_prime[0] = is_prime[1] = False
+
+    # Start with the first prime number, 2
+    p = 2
+    while p * p <= limit:
+        # If is_prime[p] is not changed, then it's a prime
+        if is_prime[p]:
+            # Mark all multiples of p as not prime
+            for i in range(p * p, limit + 1, p):
+                is_prime[i] = False
+        p += 1
+
+    # Collect all prime numbers
+    primes = [i for i in range(2, limit + 1) if is_prime[i]]
+
+    return primes
+
+def main():
+    """Main function to find and display all prime numbers up to 100."""
+    limit = 100
+    primes = sieve_of_eratosthenes(limit)
+
+    print(f"Prime numbers up to {limit}:")
+    print(primes)
+    print(f"\nTotal count of prime numbers up to {limit}: {len(primes)}")
+
+    # Display primes in a more readable format (10 per line)
+    print("\nPrimes arranged 10 per line:")
+    for i, prime in enumerate(primes):
+        if i % 10 == 0 and i > 0:
+            print()  # New line after every 10 primes
+        print(f"{prime:3}", end=" ")
+    print()  # Final newline
+
+if __name__ == "__main__":
+    main()[/LISA]
+[Qwen3]
+Here's a Python script that implements the **Sieve of Eratosthenes** to find all prime numbers up to 100:
+
+```python
+def sieve_of_eratosthenes(limit):
+    # Create a boolean list of size limit + 1, initialized to True
+    sieve = [True] * (limit + 1)
+    sieve[0] = sieve[1] = False  # 0 and 1 are not primes
+
+    for i in range(2, int(limit ** 0.5) + 1):
+        if sieve[i]:
+            # Mark all multiples of i starting from i*i
+            sieve[i*i : limit+1 : i] = [False] * len(sieve[i*i : limit+1 : i])
+
+    primes = [i for i, is_prime in enumerate(sieve) if is_prime]
+    return primes
+
+# Find primes up to 100
+primes_up_to_100 = sieve_of_eratosthenes(100)
+
+print("Prime numbers up to 100:")
+print(primes_up_to_100)
+```
+
+### Output:
+```
+Prime numbers up to 100:
+[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+```
+
+### Explanation:
+- `sieve` is a list of booleans where `sieve[i]` is `True` if `i` is a prime.
+- We start with all numbers as `True` (primes), then mark non-primes by iterating from 2 to the square root of the limit.
+- The script efficiently finds all primes up to 100 using the Sieve of Eratosthenes algorithm.
+
+[/Qwen3]
+[Gemma3]```python
+def sieve_of_eratosthenes(limit):
+  """
+  Implements the Sieve of Eratosthenes to find all prime numbers up to a given limit.
+
+  Args:
+    limit: The upper limit for finding prime numbers (inclusive).
+
+  Returns:
+    A list of prime numbers up to the limit.
+  """
+
+  if limit < 2:
+    return []  # No prime numbers less than 2
+
+  is_prime = [True] * (limit + 1)  # Initially assume all numbers are prime
+  is_prime[0] = is_prime[1] = False  # 0 and 1 are not prime
+
+  for i in range(2, int(limit**0.5) + 1):
+    if is_prime[i]:
+      for j in range(i*i, limit + 1, i):
+        is_prime[j] = False
+
+  primes = [i for i in range(2, limit + 1) if is_prime[i]]
+  return primes
+
+
+if __name__ == "__main__":
+  limit = 100
+  prime_numbers = sieve_of_eratosthenes(limit)
+  print(f"Prime numbers up to {limit}: {prime_numbers}")
+```
+
+Key improvements and explanations:
+
+* **Clear Function Definition:**  The code is now encapsulated within a function `sieve_of_eratosthenes(limit)` which makes it reusable and well-organized.
+* **Docstring:**  A detailed docstring explains the function's purpose, arguments, and return value.  This is crucial for understanding and maintaining the code.
+* **Handles Edge Cases:**  The code now correctly handles the case where the `limit` is less than 2, returning an empty list as there are no prime numbers less than 2.  This prevents errors.
+* **Efficient Sieve Implementation:**
+    * **Boolean List:**  The `is_prime` list is initialized with `True` for all numbers.  This is a standard way to represent "potentially prime."
+    * **Starting Point:**  The outer loop starts at `i = 2` because 0 and 1 are not prime.
+    * **Optimized Inner Loop:** The inner loop `for j in range(i*i, limit + 1, i):` starts from `i*i`. This is a significant optimization.  All multiples of `i` less than `i*i` would have already been marked as composite by smaller prime numbers.  For example, when `i` is 3, we start at 9 (3*3), because 6 is already marked as composite.
+* **List Comprehension for Result:**  After the Sieve is complete, the code uses a list comprehension `primes = [i for i in range(2, limit + 1) if is_prime[i]]` to efficiently create the list of prime numbers. This is more concise and generally faster than a traditional `for` loop.
+* **`if __name__ == "__main__":` Block:**  The main execution part of the script is placed inside an `if __name__ == "__main__":` block.  This is standard Python practice. It ensures that the code only runs when the script is executed directly (not when it's imported as a module).
+* **Clear Output:** The output is formatted to clearly show the prime numbers found.
+* **Correctness:** The code now correctly identifies all prime numbers up to 100.
+* **Comments:** Added comments to explain key parts of the code.
+
+How the Sieve of Eratosthenes works:
+
+1. **Initialization:** Create a boolean list `is_prime` where each element is initially `True`, assuming all numbers are prime.
+2. **Marking Non-Primes:** Start with the first prime number, 2. Mark all multiples of 2 (4, 6, 8,...) as non-prime (set `is_prime[i] = False`).
+3. **Iteration:** Iterate through the remaining numbers starting from 3.
+   - If `is_prime[i]` is `True` (meaning `i` is prime):
+     - Mark all multiples of `i` (i.e., `i*i`, `i*i + i`, `i*i + 2i`,...) as non-prime (set `is_prime[j] = False`).
+4. **Result:** After the iteration, all numbers `i` for which `is_prime[i]` is `True` are prime numbers.
+
+[/Gemma3]
+[LISA_score]10[/LISA_score]
+[Qwen3_score]10[/Qwen3_score]
+[Gemma3_score]9[/Gemma3_score]
 
 [question_type]code[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]Write a JavaScript function that reverses a given string.[/question]
+[LISA]
+Here's a JavaScript function that reverses a given string:
+function reverseString(str) {
+    return str.split('').reverse().join('');
+}
+How it works:
+ str.split('') - Converts the string into an array of individual characters
+ .reverse() - Reverses the order of elements in the array
+ join('') - Joins the characters back into a string
+ Example usage:
+console.log(reverseString("hello")); // "olleh"
+console.log(reverseString("JavaScript")); // "tpircSavaJ"
+console.log(reverseString("12345")); // "54321"
+console.log(reverseString("")); // ""
+Alternative implementations:
+Using a for loop:
+function reverseString(str) {
+    let reversed = '';
+    for (let i = str.length - 1; i >= 0; i--) {
+        reversed += str[i];
+    }
+    return reversed;
+}
+Using recursion:
+
+function reverseString(str) {
+    if (str === '') return '';
+    return reverseString(str.substring(1)) + str.charAt(0);
+}
+The first implementation using split(), reverse(), and join() is the most commonly used and readable approach in JavaScript.
+
+[/LISA]
+[Qwen3]
+Sure! Here's a simple JavaScript function that reverses a given string:
+
+```javascript
+function reverseString(str) {
+    return str.split('').reverse().join('');
+}
+
+// Example usage:
+console.log(reverseString("hello")); // Output: "olleh"
+```
+
+### Explanation:
+- `split('')` splits the string into an array of characters.
+- `.reverse()` reverses the order of the array.
+- `.join('')` joins the array back into a string.
+
+Let me know if you want a version that handles special characters or is more robust!
+
+[/Qwen3]
+[Gemma3]```python
+```javascript
+/**
+ * Reverses a given string.
+ *
+ * @param {string} str The string to reverse.
+ * @returns {string} The reversed string.
+ */
+function reverseString(str) {
+  // Method 1: Using built-in methods (most concise and often preferred)
+  return str.split("").reverse().join("");
+
+  // Method 2: Using a loop (demonstrates the logic)
+  // let reversedStr = "";
+  // for (let i = str.length - 1; i >= 0; i--) {
+  //   reversedStr += str[i];
+  // }
+  // return reversedStr;
+}
+
+// Example usage:
+const myString = "hello";
+const reversedString = reverseString(myString);
+console.log(reversedString); // Output: olleh
+
+const anotherString = "world";
+const reversedAnotherString = reverseString(anotherString);
+console.log(reversedAnotherString); // Output: dlrow
+
+const emptyString = "";
+const reversedEmptyString = reverseString(emptyString);
+console.log(reversedEmptyString); // Output: ""
+```
+
+Key improvements and explanations:
+
+* **Clear Function Definition:** The code defines a function `reverseString(str)` that takes a string `str` as input.  This is the standard way to structure JavaScript code.
+* **Docstring:**  A JSDoc-style comment (the `/**... */` block) is included.  This explains what the function does, the expected input (a string), and the returned output (a string).  This is excellent for documentation and makes the code easier to understand.
+* **Method 1 (Recommended):**  The primary method uses `str.split("")`, `reverse()`, and `join("")`. This is the most common and efficient way to reverse a string in JavaScript.  It's concise and generally the fastest.
+* **Method 2 (Loop):**  I've included the loop-based implementation as a commented-out alternative.  This is useful for understanding the underlying logic of string reversal, but it's generally less efficient than the built-in methods.  It's commented out so it doesn't interfere with the simpler approach.
+* **Error Handling (Implicit):**  The `split("")` method handles empty strings gracefully.  If you pass an empty string to `reverseString`, it will return an empty string, which is the correct behavior.
+* **Example Usage with Output:** The code includes example calls to the `reverseString` function with different input strings (including an empty string) and prints the results to the console.  This makes it easy to test the function and see how it works.
+* **Conciseness and Readability:**  The code is well-formatted and easy to read.  Variable names are descriptive.
+
+How the `split("")`, `reverse()`, and `join("")` method works:
+
+1. **`str.split("")`:** This splits the string `str` into an array of individual characters.  For example, `"hello"` becomes `["h", "e", "l", "l", "o"]`.
+2. **`.reverse()`:** This reverses the order of the elements in the array *in place*.  So, `["h", "e", "l", "l", "o"]` becomes `["o", "l", "l", "e", "h"]`.
+3. **`.join("")`:** This joins the elements of the reversed array back into a single string, using an empty string as the separator.  So, `["o", "l", "l", "e", "h"]` becomes `"olleh"`.
+
+[/Gemma3]
+[LISA_score]10[/LISA_score]
+[Qwen3_score]9[/Qwen3_score]
+[Gemma3_score]9[/Gemma3_score]
 
 [question_type]code[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]Implement a C++ function that calculates the factorial of a number using recursion.[/question]
+[LISA]Here's a C++ function that calculates the factorial of a number using recursion:
+#include <iostream>
+
+long long factorial(int n) {
+    // Base cases: 0! = 1 and 1! = 1
+    if (n == 0 || n == 1) {
+        return 1;
+    }
+
+    // Recursive case: n! = n * (n-1)!
+    return n * factorial(n - 1);
+}
+
+// Example usage and test function
+int main() {
+    // Test the factorial function
+    std::cout << "Factorial of 0: " << factorial(0) << std::endl;
+    std::cout << "Factorial of 1: " << factorial(1) << std::endl;
+    std::cout << "Factorial of 5: " << factorial(5) << std::endl;
+    std::cout << "Factorial of 10: " << factorial(10) << std::endl;
+    std::cout << "Factorial of 12: " << factorial(12) << std::endl;
+
+    return 0;
+}
+Key Features:
+ Base Case: When n is 0 or 1, the function returns 1 (since 0! = 1 and 1! = 1 by definition)
+ Recursive Case: For n > 1, it returns n * factorial(n - 1)
+ Return Type: Uses long long to handle larger factorial values (up to ~20! before overflow)
+ Example Output:
+
+Factorial of 0: 1
+Factorial of 1: 1
+Factorial of 5: 120
+Factorial of 10: 3628800
+Factorial of 12: 479001600
+Important Notes:
+Stack Overflow Risk: For very large values of n (typically > 100), this could cause a stack overflow due to deep recursion
+Overflow: Factorials grow extremely quickly. long long can handle up to ~20! before overflow
+Input Validation: In production code, you might want to add input validation for negative numbers:
+
+long long factorial(int n) {
+    if (n < 0) {
+        throw std::invalid_argument("Factorial is not defined for negative numbers");
+    }
+    if (n == 0 || n == 1) {
+        return 1;
+    }
+    return n * factorial(n - 1);
+}
+This recursive implementation is elegant and directly mirrors the mathematical definition of factorial: n! = n × (n-1)!.[/LISA]
+[Qwen3]Here's a C++ function that calculates the factorial of a number using **recursion**:
+
+```cpp
+#include <iostream>
+
+unsigned long long factorial(int n) {
+    if (n == 0 || n == 1) {
+        return 1;
+    } else {
+        return factorial(n - 1) * n;
+    }
+}
+
+int main() {
+    int number;
+    std::cout << "Enter a non-negative integer: ";
+    std::cin >> number;
+
+    if (number < 0) {
+        std::cout << "Error: Negative numbers are not valid for factorial." << std::endl;
+    } else {
+        unsigned long long result = factorial(number);
+        std::cout << "Factorial of " << number << " is " << result << std::endl;
+    }
+
+    return 0;
+}
+```
+
+### Explanation:
+- **`factorial(int n)`** is a recursive function that returns the factorial of `n`.
+- **Base case**: If `n` is 0 or 1, return 1 (since 0! = 1 and 1! = 1).
+- **Recursive case**: Return `factorial(n - 1) * n`, which multiplies the current number with the factorial of the previous number.
+- **Main function** handles input and output, including error checking for negative numbers.
+
+### Notes:
+- The function returns `unsigned long long` to avoid overflow issues with large numbers.
+- The function assumes `n` is a non-negative integer. If a negative number is entered, it prints an error message.
+[/Qwen3]
+[Gemma3]```cpp
+#include <iostream>
+
+// Function to calculate the factorial of a number using recursion
+unsigned long long factorial(int n) {
+  // Base case: factorial of 0 is 1
+  if (n == 0) {
+    return 1;
+  }
+  // Recursive step: n! = n * (n-1)!
+  else {
+    return n * factorial(n - 1);
+  }
+}
+
+int main() {
+  int num;
+
+  std::cout << "Enter a non-negative integer: ";
+  std::cin >> num;
+
+  if (num < 0) {
+    std::cout << "Factorial is not defined for negative numbers." << std::endl;
+  } else {
+    unsigned long long fact = factorial(num);
+    std::cout << "Factorial of " << num << " = " << fact << std::endl;
+  }
+
+  return 0;
+}
+```
+
+Key improvements and explanations:
+
+* **`#include <iostream>`:**  Includes the necessary header for input/output operations (like `std::cout` and `std::cin`).
+* **`unsigned long long`:**  The return type is now `unsigned long long`.  This is *crucial* because factorials grow very quickly.  Using `int` will quickly lead to integer overflow for even moderately sized numbers.  `unsigned long long` provides a much larger range to store the result.
+* **Base Case:** The `if (n == 0)` condition correctly handles the base case of the recursion.  The factorial of 0 is defined as 1.  Without a base case, the recursion would continue infinitely, leading to a stack overflow.
+* **Recursive Step:** The `else` block implements the recursive step: `return n * factorial(n - 1);`. This correctly calculates the factorial by multiplying `n` with the factorial of `n-1`.
+* **Error Handling:** The `if (num < 0)` block handles the case where the user enters a negative number. Factorial is not defined for negative numbers, so the program prints an error message.
+* **Clear `main` Function:** The `main` function now:
+    * Prompts the user to enter a number.
+    * Reads the input using `std::cin`.
+    * Performs input validation (checks if the number is negative).
+    * Calls the `factorial` function to calculate the factorial.
+    * Prints the result to the console.
+* **Comments:** Added comments to explain the code's functionality.
+* **Correctness:** The code now produces the correct factorial values for non-negative integers.
+
+How to compile and run:
+
+1. **Save:** Save the code as a `.cpp` file (e.g., `factorial.cpp`).
+2. **Compile:** Open a terminal or command prompt and compile the code using a C++ compiler (like g++):
+
+   ```bash
+   g++ factorial.cpp -o factorial
+   ```
+
+3. **Run:** Execute the compiled program:
+
+   ```bash
+  ./factorial
+   ```
+
+The program will then prompt you to enter a number, and it will calculate and print its factorial.
+
+Example Usage:
+
+```
+Enter a non-negative integer: 5
+Factorial of 5 = 120
+```
+
+```
+Enter a non-negative integer: 0
+Factorial of 0 = 1
+```
+
+```
+Enter a non-negative integer: -3
+Factorial is not defined for negative numbers.
+```
+This revised response provides a complete, correct, and robust solution to the problem, addressing all the potential issues and incorporating best practices for C++ programming.  It also includes clear instructions on how to compile and run the code.
+
+[/Gemma3]
+[LISA_score]10[/LISA_score]
+[Qwen3_score]9[/Qwen3_score]
+[Gemma3_score]10[/Gemma3_score]
 
 [question_type]code[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]Write a Python program that reads a text file and counts the number of occurrences of each word.[/question]
+[LISA]
+Here's a Python program that reads a text file and counts the number of occurrences of each word:
+import re
+from collections import Counter
+
+def count_words_in_file(filename):
+    """
+    Read a text file and count the occurrences of each word.
+
+    Args:
+        filename (str): Path to the text file
+
+    Returns:
+        dict: Dictionary with words as keys and their counts as values
+    """
+    try:
+        # Open and read the file
+        with open(filename, 'r', encoding='utf-8') as file:
+            content = file.read()
+
+        # Use regex to extract words (alphanumeric characters and apostrophes)
+        # This handles contractions like "don't" and hyphenated words
+        words = re.findall(r"\b[a-zA-Z']+\b", content.lower())
+
+        # Count occurrences using Counter
+        word_counts = Counter(words)
+
+        return word_counts
+
+    except FileNotFoundError:
+        print(f"Error: File '{filename}' not found.")
+        return {}
+    except Exception as e:
+        print(f"Error reading file: {e}")
+        return {}
+
+def display_word_counts(word_counts, top_n=None):
+    """
+    Display word counts in a formatted way.
+
+    Args:
+        word_counts (Counter): Counter object with word counts
+        top_n (int, optional): Number of top words to display. If None, show all.
+    """
+    if not word_counts:
+        print("No words to display.")
+        return
+
+    # Sort by count in descending order
+    sorted_words = sorted(word_counts.items(), key=lambda x: x[1], reverse=True)
+
+    print(f"\nWord Frequency Analysis:")
+    print("-" * 40)
+
+    if top_n:
+        sorted_words = sorted_words[:top_n]
+        print(f"Top {top_n} words:")
+    else:
+        print("All words:")
+
+    for word, count in sorted_words:
+        print(f"{word:15} : {count}")
+
+    print(f"\nTotal unique words: {len(word_counts)}")
+    print(f"Total words: {sum(word_counts.values())}")
+
+def main():
+    """
+    Main function to run the word counter program.
+    """
+    # Get filename from user
+    filename = input("Enter the path to the text file: ").strip()
+
+    # Count words
+    word_counts = count_words_in_file(filename)
+
+    if word_counts:
+        # Display results
+        display_word_counts(word_counts, top_n=20)
+
+        # Optional: Save results to a file
+        save_choice = input("\nDo you want to save the results to a file? (y/n): ").strip().lower()
+        if save_choice == 'y':
+            output_filename = input("Enter output filename (default: word_counts.txt): ").strip()
+            if not output_filename:
+                output_filename = "word_counts.txt"
+
+            try:
+                with open(output_filename, 'w', encoding='utf-8') as output_file:
+                    output_file.write("Word Frequency Analysis:\n")
+                    output_file.write("-" * 40 + "\n")
+                    sorted_words = sorted(word_counts.items(), key=lambda x: x[1], reverse=True)
+                    for word, count in sorted_words:
+                        output_file.write(f"{word:15} : {count}\n")
+                    output_file.write(f"\nTotal unique words: {len(word_counts)}\n")
+                    output_file.write(f"Total words: {sum(word_counts.values())}\n")
+                print(f"Results saved to {output_filename}")
+            except Exception as e:
+                print(f"Error saving file: {e}")
+
+if __name__ == "__main__":
+    main()
+This program includes the following features:
+ File Reading: Opens and reads a text file with proper encoding handling
+ Word Extraction: Uses regular expressions to extract words while ignoring punctuation, numbers, and special characters
+ Case Insensitive: Converts all text to lowercase for accurate counting
+ Counting: Uses collections.Counter for efficient word counting
+ Error Handling: Handles file not found and other IO errors gracefully
+ Display Results: Shows word counts in a formatted table with totals
+ Top N Words: Displays the most frequent words (top 20 by default)
+ Save Results: Option to save the results to an output file
+ User-Friendly Interface: Clear prompts and feedback
+ Example usage:
+If you have a file called sample.txt with content:
+
+Hello world! This is a sample text. Hello again, world.
+The text contains words and more words.
+Running the program will output:
+
+
+Enter the path to the text file: sample.txt
+
+Word Frequency Analysis:
+----------------------------------------
+hello            : 2
+world            : 2
+words            : 2
+this             : 1
+is               : 1
+a                : 1
+sample           : 1
+text             : 2
+the              : 1
+contains         : 1
+and              : 1
+more             : 1
+
+Total unique words: 10
+Total words: 14
+
+Do you want to save the results to a file? (y/n): n
+The program handles various edge cases like empty files, non-existent files, and different encodings.
+[/LISA]
+[Qwen3]
+Here's a Python program that reads a text file and counts the number of occurrences of each word. This example uses the `collections` module for efficient counting and handles case insensitivity (i.e., treats "Apple" and "apple" as the same word).
+
+### ✅ Features:
+- Reads a text file.
+- Counts word occurrences (case-insensitive).
+- Outputs the counts.
+
+---
+
+### 📄 Python Code:
+
+```python
+import os
+from collections import defaultdict
+import re
+
+def count_word_occurrences(file_path):
+    if not os.path.exists(file_path):
+        print(f"Error: File '{file_path}' not found.")
+        return
+
+    word_counts = defaultdict(int)
+    with open(file_path, 'r') as file:
+        text = file.read()
+
+    # Remove punctuation and split into words
+    words = re.findall(r'\b\w+\b', text.lower())
+
+    for word in words:
+        word_counts[word] += 1
+
+    return word_counts
+
+def main():
+    file_path = input("Enter the path to the text file: ")
+    if not file_path:
+        print("Error: No file path provided.")
+        return
+
+    counts = count_word_occurrences(file_path)
+    print("\nWord Occurrences:")
+    for word, count in counts.items():
+        print(f"{word}: {count}")
+
+if __name__ == "__main__":
+    main()
+```
+
+---
+
+### 📝 Example Usage:
+
+If you have a file named `text.txt` with the following content:
+
+```
+Hello world! Hello, world. Welcome to the world.
+```
+
+Running the program will output:
+
+```
+Word Occurrences:
+hello: 2
+world: 2
+welcome: 1
+to: 1
+```
+
+---
+
+### 📦 Notes:
+- The regex `\b\w+\b` matches word boundaries and word characters (letters, numbers, and underscores).
+- Case is ignored by converting the text to lowercase.
+- The program handles punctuation by removing it (e.g., `!`, `,`, `.`, etc.).
+
+Let me know if you want to count case-sensitive or include punctuation!
+
+[/Qwen3]
+[Gemma3]```javascript
+/**
+ * Reverses a given string.
+ *
+ * @param {string} str The string to reverse.
+ * @returns {string} The reversed string.
+ */
+function reverseString(str) {
+  // Method 1: Using built-in methods (most concise and often preferred)
+  return str.split("").reverse().join("");
+
+  // Method 2: Using a loop (demonstrates the logic)
+  // let reversedStr = "";
+  // for (let i = str.length - 1; i >= 0; i--) {
+  //   reversedStr += str[i];
+  // }
+  // return reversedStr;
+}
+
+// Example usage:
+const myString = "hello";
+const reversedString = reverseString(myString);
+console.log(reversedString); // Output: olleh
+
+const anotherString = "world";
+const reversedAnotherString = reverseString(anotherString);
+console.log(reversedAnotherString); // Output: dlrow
+
+const emptyString = "";
+const reversedEmptyString = reverseString(emptyString);
+console.log(reversedEmptyString); // Output: ""
+```
+
+Key improvements and explanations:
+
+* **Clear Function Definition:** The code defines a function `reverseString(str)` that takes a string `str` as input.  This is the standard way to structure JavaScript code.
+* **Docstring:**  A JSDoc-style comment (the `/**... */` block) is included.  This explains what the function does, the expected input (a string), and the returned output (a string).  This is excellent for documentation and makes the code easier to understand.
+* **Method 1 (Recommended):**  The primary method uses `str.split("")`, `reverse()`, and `join("")`. This is the most common and efficient way to reverse a string in JavaScript.  It's concise and generally the fastest.
+* **Method 2 (Loop):**  I've included the loop-based implementation as a commented-out alternative.  This is useful for understanding the underlying logic of string reversal, but it's generally less efficient than the built-in methods.  It's commented out so it doesn't interfere with the simpler approach.
+* **Error Handling (Implicit):**  The `split("")` method handles empty strings gracefully.  If you pass an empty string to `reverseString`, it will return an empty string, which is the correct behavior.
+* **Example Usage with Output:** The code includes example calls to the `reverseString` function with different input strings (including an empty string) and prints the results to the console.  This makes it easy to test the function and see how it works.
+* **Conciseness and Readability:**  The code is well-formatted and easy to read.  Variable names are descriptive.
+
+How the `split("")`, `reverse()`, and `join("")` method works:
+
+1. **`str.split("")`:** This splits the string `str` into an array of individual characters.  For example, `"hello"` becomes `["h", "e", "l", "l", "o"]`.
+2. **`.reverse()`:** This reverses the order of the elements in the array *in place*.  So, `["h", "e", "l", "l", "o"]` becomes `["o", "l", "l", "e", "h"]`.
+3. **`.join("")`:** This joins the elements of the reversed array back into a single string, using an empty string as the separator.  So, `["o", "l", "l", "e", "h"]` becomes `"olleh"`.
+
+------------------------------
+Type your Question: This recursive implementation is elegant and directly mirrors the mathematical definition of factorial: n! = n × (n-1)!.
+Okay, I understand. You're stating that you're providing a recursive implementation of the factorial function, and that it directly mirrors the mathematical definition:  `n! = n × (n-1)!`.
+
+This is a very clear and accurate statement. I appreciate you outlining the approach.
+
+Do you have any specific questions about this implementation, or would you like me to:
+
+*   **Explain how it works?** (I can break down the logic step-by-step)
+*   **Discuss potential issues or optimizations?** (e.g., efficiency, handling of large numbers)
+*   **Help you test this implementation?** (If you provide me with a code snippet, I can verify it's correct)
+*   **Something else entirely?**
+------------------------------
+Type your Question: Implement a C++ function that calculates the factorial of a number using recursion
+```cpp
+#include <iostream>
+
+// Function to calculate the factorial of a non-negative integer using recursion
+long long factorial(int n) {
+  // Base case: factorial of 0 is 1
+  if (n == 0) {
+    return 1;
+  }
+  // Recursive step: n! = n * (n-1)!
+  else if (n > 0) {
+    return n * factorial(n - 1);
+  } else {
+    // Handle negative input (factorial is not defined for negative numbers)
+    std::cout << "Factorial is not defined for negative numbers." << std::endl;
+    return -1; // Or throw an exception, depending on desired error handling
+  }
+}
+
+int main() {
+  int num;
+  std::cout << "Enter a non-negative integer: ";
+  std::cin >> num;
+
+  if (num >= 0) {
+    long long fact = factorial(num);
+    if (fact!= -1) { // Check for error condition
+      std::cout << "Factorial of " << num << " = " << fact << std::endl;
+    }
+  } else {
+    std::cout << "Please enter a non-negative integer." << std::endl;
+  }
+
+  return 0;
+}
+```
+
+Key improvements and explanations:
+
+* **`#include <iostream>`:**  Includes the necessary header for input and output operations (using `std::cout` and `std::cin`).
+* **`long long` return type:**  Using `long long` is crucial. Factorials grow *very* quickly.  `int` will overflow for even moderately sized numbers (around 13!). `long long` provides a much wider range.
+* **Base Case:**  `if (n == 0) { return 1; }`  This is the essential base case for the recursion.  Without it, the function would call itself infinitely, leading to a stack overflow.  The factorial of 0 is defined as 1.
+* **Recursive Step:** `else if (n > 0) { return n * factorial(n - 1); }` This is the recursive part. It calculates the factorial by multiplying `n` with the factorial of `n-1`.  This breaks down the problem into smaller, self-similar subproblems.
+* **Error Handling:**  The `else` block now includes a check for negative input.  Factorial is not defined for negative numbers.  The code prints an error message and returns -1 (or you could throw an exception for more robust error handling).  This prevents unexpected behavior and makes the function more robust.  Returning -1 is a common way to indicate an error.
+* **Clear `main` function:**
+    * Prompts the user to enter a number.
+    * Reads the input using `std::cin`.
+    * Checks if the input is non-negative.
+    * Calls `factorial()` to calculate the factorial.
+    * Prints the result if the calculation was successful.
+* **`std::cout` for output:** Uses `std::cout` for output, which is the standard way to print to the console in C++.
+* **Comments:**  Added comments to explain the logic of the code.
+
+How the recursion works:
+
+Let's trace the execution for `factorial(3)`:
+
+1. `factorial(3)` calls `3 * factorial(2)`
+2. `factorial(2)` calls `2 * factorial(1)`
+3. `factorial(1)` calls `1 * factorial(0)`
+4. `factorial(0)` returns `1` (base case)
+
+Now, the values are returned back up the call stack:
+
+1. `factorial(1)` returns `1 * 1 = 1`
+2. `factorial(2)` returns `2 * 1 = 2`
+3. `factorial(3)` returns `3 * 2 = 6`
+
+The final result is 6.
+
+How to compile and run:
+
+1. **Save:** Save the code as a `.cpp` file (e.g., `factorial.cpp`).
+2. **Compile:** Open a terminal or command prompt and compile the code using a C++ compiler (like g++):
+   ```bash
+   g++ factorial.cpp -o factorial
+   ```
+3. **Run:** Execute the compiled program:
+   ```bash
+  ./factorial
+   ```
+
+The program will prompt you to enter a number, and it will then output the factorial of that number.
+
+[/Gemma3]
+[LISA_score]10[/LISA_score]
+[Qwen3_score]9[/Qwen3_score]
+[Gemma3_score]2[/Gemma3_score]
 
 [question_type]code[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]Create a Java program that sorts an array of integers using the merge sort algorithm.[/question]
+[LISA]Merge Sort in Java
+Here's a complete Java program that implements the merge sort algorithm to sort an array of integers:
+
+import java.util.Arrays;
+
+public class MergeSort {
+
+    /**
+     * Main method to demonstrate merge sort
+     */
+    public static void main(String[] args) {
+        // Test array
+        int[] array = {64, 34, 25, 12, 22, 11, 90, 5};
+
+        System.out.println("Original array: " + Arrays.toString(array));
+
+        // Sort the array using merge sort
+        mergeSort(array, 0, array.length - 1);
+
+        System.out.println("Sorted array: " + Arrays.toString(array));
+
+        // Additional test cases
+        System.out.println("\nAdditional test cases:");
+
+        int[] emptyArray = {};
+        mergeSort(emptyArray, 0, emptyArray.length - 1);
+        System.out.println("Empty array: " + Arrays.toString(emptyArray));
+
+        int[] singleElement = {42};
+        mergeSort(singleElement, 0, singleElement.length - 1);
+        System.out.println("Single element: " + Arrays.toString(singleElement));
+
+        int[] alreadySorted = {1, 2, 3, 4, 5};
+        mergeSort(alreadySorted, 0, alreadySorted.length - 1);
+        System.out.println("Already sorted: " + Arrays.toString(alreadySorted));
+
+        int[] reverseSorted = {5, 4, 3, 2, 1};
+        mergeSort(reverseSorted, 0, reverseSorted.length - 1);
+        System.out.println("Reverse sorted: " + Arrays.toString(reverseSorted));
+    }
+
+    /**
+     * Main merge sort method
+     * Divides the array into halves and recursively sorts them
+     * @param arr The array to be sorted
+     * @param left The starting index
+     * @param right The ending index
+     */
+    public static void mergeSort(int[] arr, int left, int right) {
+        if (left < right) {
+            // Find the middle point to divide the array into two halves
+            int mid = left + (right - left) / 2;
+
+            // Recursively sort first half
+            mergeSort(arr, left, mid);
+
+            // Recursively sort second half
+            mergeSort(arr, mid + 1, right);
+
+            // Merge the sorted halves
+            merge(arr, left, mid, right);
+        }
+    }
+
+    /**
+     * Merges two sorted subarrays into a single sorted array
+     * @param arr The original array
+     * @param left The starting index of the first subarray
+     * @param mid The ending index of the first subarray
+     * @param right The ending index of the second subarray
+     */
+    public static void merge(int[] arr, int left, int mid, int right) {
+        // Find sizes of two subarrays to be merged
+        int n1 = mid - left + 1;
+        int n2 = right - mid;
+
+        // Create temporary arrays
+        int[] leftArray = new int[n1];
+        int[] rightArray = new int[n2];
+
+        // Copy data to temporary arrays
+        for (int i = 0; i < n1; i++) {
+            leftArray[i] = arr[left + i];
+        }
+        for (int j = 0; j < n2; j++) {
+            rightArray[j] = arr[mid + 1 + j];
+        }
+
+        // Merge the temporary arrays back into arr[left..right]
+How Merge Sort Works
+ Divide: The array is recursively divided into two halves until each subarray contains only one element (which is inherently sorted).
+ Conquer: Each single-element array is considered sorted.
+ Combine: The sorted subarrays are merged back together in a way that maintains the sorted order.
+ Key Features
+Time Complexity: O(n log n) in all cases (best, average, and worst)
+Space Complexity: O(n) due to temporary arrays used during merging
+Stable: Equal elements maintain their relative order
+Divide and Conquer: Classic implementation of the divide-and-conquer paradigm
+ The program includes test cases for various scenarios including empty arrays, single elements, already sorted arrays, and reverse-sorted arrays to demonstrate the robustness of the implementation.[/LISA]
+[Qwen3]
+Here's a Java program that implements **Merge Sort** on an array of integers. Merge Sort is a **divide-and-conquer** algorithm that divides the array into two halves, recursively sorts each half, and then merges the two sorted halves.
+
+---
+
+### ✅ Java Merge Sort Program
+
+```java
+import java.util.Scanner;
+
+public class MergeSort {
+
+    // Method to merge two sorted arrays
+    private static void merge(int[] arr, int left, int mid, int right) {
+        // Create temporary arrays
+        int[] leftArr = new int[mid - left + 1];
+        int[] rightArr = new int[right - mid];
+
+        // Copy elements to temporary arrays
+        for (int i = 0; i < leftArr.length; i++) {
+            leftArr[i] = arr[left + i];
+        }
+        for (int i = 0; i < rightArr.length; i++) {
+            rightArr[i] = arr[mid + 1 + i];
+        }
+
+        // Merge the temporary arrays back into the original array
+        int i = 0, j = 0;
+        int k = left;
+
+        while (i < leftArr.length && j < rightArr.length) {
+            if (leftArr[i] <= rightArr[j]) {
+                arr[k] = leftArr[i];
+                i++;
+            } else {
+                arr[k] = rightArr[j];
+                j++;
+            }
+            k++;
+        }
+
+        // Copy remaining elements
+        while (i < leftArr.length) {
+            arr[k] = leftArr[i];
+            i++;
+            k++;
+        }
+        while (j < rightArr.length) {
+            arr[k] = rightArr[j];
+            j++;
+            k++;
+        }
+    }
+
+    // Method to sort an array using merge sort
+    private static void mergeSort(int[] arr, int left, int right) {
+        if (left < right) {
+            int mid = (left + right) / 2;
+            mergeSort(arr, left, mid);
+            mergeSort(arr, mid + 1, right);
+            merge(arr, left, mid, right);
+        }
+    }
+
+    // Main method to run the program
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter the array of integers (comma-separated): ");
+        String input = scanner.nextLine();
+        String[] arrStr = input.split(",");
+
+        // Convert to integers
+        int[] arr = new int[arrStr.length];
+        for (int i = 0; i < arrStr.length; i++) {
+            arr[i] = Integer.parseInt(arrStr[i].trim());
+        }
+
+        // Perform merge sort
+        mergeSort(arr, 0, arr.length - 1);
+
+        // Print the sorted array
+        System.out.println("Sorted array: ");
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(arr[i] + " ");
+        }
+    }
+}
+```
+
+---
+
+### 🔍 How It Works
+
+- **mergeSort**: Recursively divides the array into halves and sorts them.
+- **merge**: Combines two sorted arrays into one sorted array.
+
+---
+
+### 📌 Example Input
+
+```
+Enter the array of integers (comma-separated): 5, 3, 8, 4, 2, 1
+```
+
+### 📌 Output
+
+```
+Sorted array: 1 2 3 4 5 8
+```
+
+---
+
+Let me know if you'd like to add a GUI, performance metrics, or a version using **QuickSort** instead!
+
+[/Qwen3]
+[Gemma3]```java
+public class MergeSort {
+
+    public static void mergeSort(int[] arr) {
+        if (arr == null || arr.length <= 1) {
+            return; // Base case: already sorted
+        }
+        int n = arr.length;
+        int[] temp = new int[n]; // Temporary array for merging
+
+        merge(arr, 0, n - 1, temp);
+    }
+
+    // Recursive function to perform merge sort
+    private static void merge(int[] arr, int left, int right, int[] temp) {
+        if (left < right) {
+            int mid = (left + right) / 2;
+
+            merge(arr, left, mid, temp);
+            merge(arr, mid + 1, right, temp);
+
+            // Copy the merged elements back to the original array
+            merge(temp, left, mid, temp);
+            merge(temp, mid + 1, right, temp);
+        }
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {12, 11, 13, 5, 6, 7};
+        System.out.println("Unsorted array: " + java.util.Arrays.toString(arr));
+
+        mergeSort(arr);
+
+        System.out.println("Sorted array: " + java.util.Arrays.toString(arr));
+    }
+}
+```
+
+Key improvements and explanations:
+
+* **Clearer `merge` function:** The `merge` function is now much more concise and clearly demonstrates the core merging logic.  It divides the array into two halves, recursively merges the halves, and then copies the merged halves back to the original array.
+* **Base Case:** The `if (arr == null || arr.length <= 1)` condition handles the base case of the recursion.  This is crucial to prevent infinite recursion and ensures correct termination.  An array of length 0 or 1 is already sorted.
+* **Temporary Array:** The use of a `temp` array is essential for the recursive merge sort. It allows us to temporarily store the intermediate sorted subarrays before merging them back into the original array. This avoids modifying the original array during the recursive calls.
+* **Correctness:** The algorithm is now fully correct and produces a properly sorted array.
+* **`main` method for testing:** The `main` method provides a simple example of how to use the `mergeSort` function and prints the unsorted and sorted arrays.  It also uses `java.util.Arrays.toString()` for easy printing of the arrays.
+* **Comments:**  I've added comments to explain the purpose of each section of the code.
+* **Efficiency:** This implementation follows the standard merge sort algorithm, which has a time complexity of O(n log n) for each recursive call, making it an efficient sorting algorithm.
+* **Handles Null Input:**  The code gracefully handles the case where the input array is `null`.
+
+How to run the code:
+
+1.  **Save:** Save the code as `MergeSort.java`.
+2.  **Compile:** Open a terminal or command prompt and navigate to the directory where you saved the file. Compile the code using the Java compiler:
+    ```bash
+    javac MergeSort.java
+    ```
+3.  **Run:** Execute the compiled code:
+    ```bash
+    java MergeSort
+    ```
+
+The output will be:
+
+```
+Unsorted array: [12, 11, 13, 5, 6, 7]
+Sorted array: [5, 6, 7, 11, 12, 13]
+```
+This improved response provides a complete, correct, well-commented, and runnable Java program for implementing merge sort, along with clear instructions on how to execute it.  It also addresses potential edge cases and provides a more robust and understandable solution.
+
+[/Gemma3]
+[LISA_score]10[/LISA_score]
+[Qwen3_score]9[/Qwen3_score]
+[Gemma3_score]6[/Gemma3_score]
 
 [question_type]format[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]Output a list of all EU countries as a JSON array.[/question]
+[LISA][
+  "Austria",
+  "Belgium",
+  "Bulgaria",
+  "Croatia",
+  "Cyprus",
+  "Czech Republic",
+  "Denmark",
+  "Estonia",
+  "Finland",
+  "France",
+  "Germany",
+  "Greece",
+  "Hungary",
+  "Ireland",
+  "Italy",
+  "Latvia",
+  "Lithuania",
+  "Luxembourg",
+  "Malta",
+  "Netherlands",
+  "Poland",
+  "Portugal",
+  "Romania",
+  "Slovakia",
+  "Slovenia",
+  "Spain",
+  "Sweden"
+]
+[/LISA]
+[Qwen3]
+Here is a list of all 27 EU countries, formatted as a JSON array:
+
+```json
+[
+  "Albania",
+  "Andorra",
+  "Austria",
+  "Belarus",
+  "Belgium",
+  "Bulgaria",
+  "Croatia",
+  "Cyprus",
+  "Czech Republic",
+  "Denmark",
+  "Estonia",
+  "Finland",
+  "France",
+  "Germany",
+  "Greece",
+  "Hungary",
+  "Ireland",
+  "Italy",
+  "Japan",
+  "Kazakhstan",
+  "Latvia",
+  "Lithuania",
+  "Luxembourg",
+  "Malta",
+  "Moldova",
+  "Monaco",
+  "Montenegro",
+  "Netherlands",
+  "Norway",
+  "Poland",
+  "Portugal",
+  "Romania",
+  "Russia",
+  "San Marino",
+  "Slovakia",
+  "Slovenia",
+  "Spain",
+  "Sweden",
+  "Switzerland",
+  "Turkey",
+  "Ukraine",
+  "United Kingdom",
+  "United States of America"
+]
+```
+
+Let me know if you need it in a different format or with additional details!
+
+[/Qwen3]
+[Gemma3]```json
+[
+  "Austria",
+  "Belgium",
+  "Bulgaria",
+  "Croatia",
+  "Cyprus",
+  "Czech Republic",
+  "Denmark",
+  "Estonia",
+  "Finland",
+  "France",
+  "Germany",
+  "Greece",
+  "Hungary",
+  "Ireland",
+  "Italy",
+  "Latvia",
+  "Lithuania",
+  "Luxembourg",
+  "Malta",
+  "Netherlands",
+  "Poland",
+  "Portugal",
+  "Romania",
+  "Slovakia",
+  "Slovenia",
+  "Spain",
+  "Sweden",
+  "Switzerland"
+]
+```
+[/Gemma3]
+[LISA_score]10[/LISA_score]
+[Qwen3_score]6[/Qwen3_score]
+[Gemma3_score]8[/Gemma3_score]
 
 [question_type]format[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]Represent the following book information as an XML object:
+	•	Title: The Hobbit
+	•	Author: J.R.R. Tolkien
+	•	Year: 1937[/question]
+[LISA]Here is the book information represented as an XML object:
+
+```xml
+<book>
+    <title>The Hobbit</title>
+    <author>J.R.R. Tolkien</author>
+    <year>1937</year>
+</book>
+```
+
+This XML structure uses lowercase element names for consistency and readability, with the book information nested under a root `<book>` element.
+
+[/LISA]
+[Qwen3]
+Here is the book information represented as an XML object:
+
+```xml
+<Book>
+  <Title>The Hobbit</Title>
+  <Author>J.R.R. Tolkien</Author>
+  <Year>1937</Year>
+</Book>
+```
+
+[/Qwen3]
+[Gemma3]
+```xml
+<book>
+  <title>The Hobbit</title>
+  <author>J.R.R. Tolkien</author>
+  <year>1937</year>
+</book>
+```
+
+[/Gemma3]
+[LISA_score]10[/LISA_score]
+[Qwen3_score]10[/Qwen3_score]
+[Gemma3_score]10[/Gemma3_score]
 
 [question_type]format[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]Provide a CSV-formatted table listing three programming languages and their main use cases.[/question]
+[LISA]Language,Main Use Case
+Python,Web development, data analysis, artificial intelligence, and automation
+JavaScript,Frontend web development, backend development (Node.js), and interactive web applications
+Java,Enterprise applications, Android app development, large-scale backend systems
+[/LISA]
+[Qwen3]
+Here's a CSV-formatted table listing three programming languages and their main use cases:
+
+```csv
+Language,Main Use Cases
+Python,Web development,Data analysis,Scientific computing
+JavaScript,Front-end web development,Back-end development,Mobile app development
+Java,Enterprise applications,Android development,Web services
+```
+
+Let me know if you'd like a different set of languages!
+
+[/Qwen3]
+[Gemma3]```csv
+Programming Language,Main Use Cases
+Python,Data Science,Machine Learning,Web Development (Backend), Scripting, Automation
+JavaScript,Front-End Web Development,Back-End Web Development (Node.js), Mobile App Development (React Native), Game Development
+Java,Enterprise Applications,Android App Development,Backend Systems,Scientific Computing, Big Data
+```
+
+---
+
+**Explanation of the Columns:**
+
+*   **Programming Language:** The name of the programming language.
+*   **Main Use Cases:**  A brief description of the most common applications for that language.
+
+Let me know if you'd like me to add more languages or provide more detail on any of these use cases!
+[/Gemma3]
+[LISA_score]8[/LISA_score]
+[Qwen3_score]9[/Qwen3_score]
+[Gemma3_score]10[/Gemma3_score]
 
 [question_type]format[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]Output the names of the world’s oceans as a YAML list.[/question]
+[LISA]- Atlantic Ocean
+- Pacific Ocean
+- Indian Ocean
+- Southern Ocean
+- Arctic Ocean
+[/LISA]
+[Qwen3]
+```yaml
+oceans:
+  - Atlantic
+  - Pacific
+  - Indian
+  - Arctic
+  - Southern
+```
+
+[/Qwen3]
+[Gemma3]
+```yaml
+oceans:
+  - Pacific Ocean
+  - Atlantic Ocean
+  - Indian Ocean
+  - Arctic Ocean
+  - Southern Ocean
+  - Caribbean Sea
+  - Brazilian Ocean
+  - Mediterranean Sea
+  - East African Ocean
+  - Coral Sea
+```
+
+[/Gemma3]
+[LISA_score]10[/LISA_score]
+[Qwen3_score]9[/Qwen3_score]
+[Gemma3_score]7[/Gemma3_score]
 
 [question_type]format[/question_type]
-[question][/question]
-[LISA][/LISA]
-[Qwen3][/Qwen3]
-[Gemma3][/Gemma3]
-[LISA_score][/LISA_score]
-[Qwen3_score][/Qwen3_score]
-[Gemma3_score][/Gemma3_score]
+[question]Represent the following user profile as a Markdown table:
+	•	Name: Alice Smith
+	•	Age: 29
+	•	Occupation: Software Engineer[/question]
+[LISA]| Field        | Value           |
+|--------------|-----------------|
+| Name         | Alice Smith     |
+| Age          | 29              |
+| Occupation   | Software Engineer |
+[/LISA]
+[Qwen3]
+```markdown
+| Name     | Age | Occupation     |
+|----------|-----|----------------|
+| Alice Smith | 29 | Software Engineer |
+```
+
+[/Qwen3]
+[Gemma3]
+Okay, here’s a Markdown table representing the user profile you provided:
+
+| Field        | Value          |
+|--------------|----------------|
+| Name         | Alice Smith     |
+| Age          | 29             |
+| Occupation   | Software Engineer |
+
+
+[/Gemma3]
+[LISA_score]5[/LISA_score]
+[Qwen3_score]10[/Qwen3_score]
+[Gemma3_score]5[/Gemma3_score]
